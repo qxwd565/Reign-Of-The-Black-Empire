@@ -1,0 +1,18 @@
+{
+  "prefixes": {
+    "BE": {
+      "date": "2026-10-21",
+      "status": "verified"
+    }
+  },
+  "cards": {
+    "BE_036": {
+      "date": "2026-09-16",
+      "status": "verified"
+    }
+  },
+  "sources": {
+    "BE": "https://hearthstone.blizzard.com/ko-kr/expansions-adventures/reign-of-the-black-empire",
+    "BE_036": "https://hearthstone.blizzard.com/ko-kr/news/24301454"
+  }
+}
