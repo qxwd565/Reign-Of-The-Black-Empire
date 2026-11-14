@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_193","dbfId":130089,"name":"빵빵가오리","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":1,"text":"<b>독성</b>","attack":1,"health":2,"durability":0,"armor":0,"flavor":"제가 보기엔 날씬한데요.","spellSchool":"","portrait":"HS39-102_M.tif:da10fadf821943bbae5d4324d1840b4c","set":"BE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":363,"name":"독성","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/BE_193.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-102_M.tif:da10fadf821943bbae5d4324d1840b4c","goldenMaterial":"BE_193_PremiumCard.mat:36808274e83de57449c6fd094cab102f","goldenAnimation":"BE_193_PremiumCard.asset:66ba98102f4f072428f3a04f0d10c7c7"}}
+{
+  "2026-10-21": {
+    "id": "BE_193",
+    "dbfId": 130089,
+    "name": "빵빵가오리",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>독성</b>",
+    "attack": 1,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "제가 보기엔 날씬한데요.",
+    "spellSchool": "",
+    "portrait": "HS39-102_M.tif:da10fadf821943bbae5d4324d1840b4c",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 363,
+        "name": "독성",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/BE_193.png"
+  }
+}

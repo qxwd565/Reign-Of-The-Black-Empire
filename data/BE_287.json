@@ -1,1 +1,87 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_287","dbfId":130341,"name":"그훈","type":"MINION","cardClass":"DEATHKNIGHT","rarity":"LEGENDARY","collectible":true,"cost":8,"text":"<b>전투의 함성:</b> 생명력이 가장 낮은<br></br>적들로부터 6의 생명력을 나누어<br></br>가져옵니다. <i>내가 낸 혈기 룬의<br></br>수만큼 강화됩니다.</i>","attack":8,"health":1,"durability":0,"armor":0,"flavor":"그훈은 죽음의 기사에게 혈기 룬이 있는 것을 알고 바로 직업을 바꾸었습니다.","spellSchool":"","portrait":"HS39-007_M.tif:2082810644b4405b8152a0ccfc687a16","set":"BE","nativeTags":[{"id":2,"name":"효과 수치 1","value":6},{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":8},{"id":48,"name":"마나 비용","value":8},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":1},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2196,"name":"혈기 룬","value":3},{"id":2589,"name":"간판 카드 존재","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_287.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-007_M.tif:2082810644b4405b8152a0ccfc687a16","goldenMaterial":"BE_287_PremiumCard.mat:7bae0319213c2e646beabe5eab87f01b","goldenAnimation":"BE_287_PremiumCard.asset:d878a250658d91646978dc0f485ad52a"}}
+{
+  "2026-10-21": {
+    "id": "BE_287",
+    "dbfId": 130341,
+    "name": "그훈",
+    "type": "MINION",
+    "cardClass": "DEATHKNIGHT",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 8,
+    "text": "<b>전투의 함성:</b> 생명력이 가장 낮은<br></br>적들로부터 6의 생명력을 나누어<br></br>가져옵니다. <i>내가 낸 혈기 룬의<br></br>수만큼 강화됩니다.</i>",
+    "attack": 8,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "그훈은 죽음의 기사에게 혈기 룬이 있는 것을 알고 바로 직업을 바꾸었습니다.",
+    "spellSchool": "",
+    "portrait": "HS39-007_M.tif:2082810644b4405b8152a0ccfc687a16",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 6
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 8
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2196,
+        "name": "혈기 룬",
+        "value": 3
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_287.png"
+  }
+}

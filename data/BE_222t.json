@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_222t","dbfId":130406,"name":"공허날개","type":"MINION","cardClass":"PRIEST","collectible":false,"cost":5,"text":"<b>생명력 흡수</b>","attack":5,"health":5,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS39-057_M.tif:bf6f226aa6274c01946cfa9843f6e689","set":"BE","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":6},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":685,"name":"생명력 흡수","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/BE_222t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-057_M.tif:bf6f226aa6274c01946cfa9843f6e689","goldenMaterial":"BE_222t_PremiumCard.mat:1f7eff8a5c6bbaa4aa4e01ebb376d386","goldenAnimation":"BE_222t_PremiumCard.asset:1b84f55216a7157458d8dd3af77b1e9f"}}
+{
+  "2026-10-21": {
+    "id": "BE_222t",
+    "dbfId": 130406,
+    "name": "공허날개",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "collectible": false,
+    "cost": 5,
+    "text": "<b>생명력 흡수</b>",
+    "attack": 5,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS39-057_M.tif:bf6f226aa6274c01946cfa9843f6e689",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/BE_222t.png"
+  }
+}

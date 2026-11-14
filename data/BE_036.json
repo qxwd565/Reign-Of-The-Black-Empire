@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_036","dbfId":128132,"name":"마더","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":9,"text":"<b>전투의 함성:</b> 내 손에 있는 카드의 비용을 (5) 감소시킵니다. 양옆으로 이어지며 카드마다 감소량이 (1)씩 줄어듭니다.","attack":9,"health":7,"durability":0,"armor":0,"flavor":"마더가 도착했습니다!","spellSchool":"","portrait":"HS39-193_M.tif:55385f0347304cae8b93bd353c504218","set":"BE","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":9},{"id":48,"name":"마나 비용","value":9},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1508,"name":"손의 카드 대상 지정","value":1},{"id":2589,"name":"간판 카드 존재","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_036.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-193_M.tif:55385f0347304cae8b93bd353c504218","goldenMaterial":"BE_036_PremiumCard.mat:6852e4e89fb50f0438dab73a62053d8a","goldenAnimation":"BE_036_PremiumCard.asset:9ab2502554a8da44a85db61fa40a8947"}}
+{
+  "2026-09-16": {
+    "id": "BE_036",
+    "dbfId": 128132,
+    "name": "마더",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 9,
+    "text": "<b>전투의 함성:</b> 내 손에 있는 카드의 비용을 (5) 감소시킵니다. 양옆으로 이어지며 카드마다 감소량이 (1)씩 줄어듭니다.",
+    "attack": 9,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "마더가 도착했습니다!",
+    "spellSchool": "",
+    "portrait": "HS39-193_M.tif:55385f0347304cae8b93bd353c504218",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 9
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 9
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1508,
+        "name": "손의 카드 대상 지정",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_036.png"
+  }
+}

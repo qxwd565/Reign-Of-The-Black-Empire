@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_327t1","dbfId":131120,"name":"고서 번역가","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":false,"cost":4,"text":"<b>전투의 함성:</b> 이번 턴에<br></br>내가 시전하는 다음 주문은<br></br>비용이 (4) 감소합니다.","attack":5,"health":4,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS39-117_M.tif:d52ddf836a7e4483895c5bd77f5276de","set":"BE","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":218,"name":"전투의 함성","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_327t1.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-117_M.tif:d52ddf836a7e4483895c5bd77f5276de","goldenMaterial":"BE_327t1_PremiumCard.mat:4bb9b084769f86147ba52d0c5c28a4ec","goldenAnimation":"BE_327t1_PremiumCard.asset:0471333cb6aecdb48abad69d00429866"}}
+{
+  "2026-10-21": {
+    "id": "BE_327t1",
+    "dbfId": 131120,
+    "name": "고서 번역가",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": false,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b> 이번 턴에<br></br>내가 시전하는 다음 주문은<br></br>비용이 (4) 감소합니다.",
+    "attack": 5,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS39-117_M.tif:d52ddf836a7e4483895c5bd77f5276de",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_327t1.png"
+  }
+}

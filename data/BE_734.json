@@ -1,1 +1,94 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_734","dbfId":130815,"name":"동화의 수액","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":4,"text":"<b>전투의 함성</b>: 이번 턴이 끝날 때 이 하수인을 복사하여 소환합니다.","attack":3,"health":2,"durability":0,"armor":0,"flavor":"우린 수액이다.","spellSchool":"","portrait":"HS39-113_M.tif:a4cd69479e874ef8a4954e9af82cd290","set":"BE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":26},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2589,"name":"간판 카드 존재","value":1},{"id":4533,"name":"제작 결과 능력","value":1},{"id":4548,"name":"게임 태그 4548","value":1},{"id":4578,"name":"게임 태그 4578","value":1}],"races":["ALL"],"race":"모든 종족","classes":[],"art":"art/BE_734.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-113_M.tif:a4cd69479e874ef8a4954e9af82cd290","goldenMaterial":"BE_734_PremiumCard.mat:7d5ee1fdfe0bba64083ae5b3836da286","goldenAnimation":"BE_734_PremiumCard.asset:ed6453ccda5e9f64892dad11a53a603b"}}
+{
+  "2026-10-21": {
+    "id": "BE_734",
+    "dbfId": 130815,
+    "name": "동화의 수액",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성</b>: 이번 턴이 끝날 때 이 하수인을 복사하여 소환합니다.",
+    "attack": 3,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "우린 수액이다.",
+    "spellSchool": "",
+    "portrait": "HS39-113_M.tif:a4cd69479e874ef8a4954e9af82cd290",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 26
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      },
+      {
+        "id": 4548,
+        "name": "게임 태그 4548",
+        "value": 1
+      },
+      {
+        "id": 4578,
+        "name": "게임 태그 4578",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ALL"
+    ],
+    "race": "모든 종족",
+    "classes": [],
+    "art": "art/BE_734.png"
+  }
+}

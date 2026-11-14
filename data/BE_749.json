@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_749","dbfId":131157,"name":"젤노스 거수","type":"MINION","cardClass":"DEATHKNIGHT","rarity":"RARE","collectible":true,"cost":5,"text":"<b>죽음의 메아리</b>: 비용이 1인 무작위 하수인을 둘 소환합니다. 내 하수인들에게 공격력을 +3 부여합니다.","attack":5,"health":3,"durability":0,"armor":0,"flavor":"멀쩡한 이름의 공허 생물이 공허에서 나오면 그게 진짜 무서운 일이죠.","spellSchool":"","portrait":"HS39-004_M.tif:c1fd2b651dff4f079b45d8592e598004","set":"BE","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":1},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2198,"name":"부정 룬","value":1},{"id":4533,"name":"제작 결과 능력","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_749.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-004_M.tif:c1fd2b651dff4f079b45d8592e598004","goldenMaterial":"BE_749_PremiumCard.mat:10fcb8c89221cbe41a1a49f38a7a96bf","goldenAnimation":"BE_749_PremiumCard.asset:f5703178c36766844babd9116cb18fa1"}}
+{
+  "2026-10-21": {
+    "id": "BE_749",
+    "dbfId": 131157,
+    "name": "젤노스 거수",
+    "type": "MINION",
+    "cardClass": "DEATHKNIGHT",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>죽음의 메아리</b>: 비용이 1인 무작위 하수인을 둘 소환합니다. 내 하수인들에게 공격력을 +3 부여합니다.",
+    "attack": 5,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "멀쩡한 이름의 공허 생물이 공허에서 나오면 그게 진짜 무서운 일이죠.",
+    "spellSchool": "",
+    "portrait": "HS39-004_M.tif:c1fd2b651dff4f079b45d8592e598004",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2198,
+        "name": "부정 룬",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_749.png"
+  }
+}

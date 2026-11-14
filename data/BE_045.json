@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_045","dbfId":129089,"name":"부조화의 중매자","type":"MINION","cardClass":"PRIEST","rarity":"EPIC","collectible":true,"cost":5,"text":"<b>도발</b>, <b>전투의 함성</b>: 비용이 (5) 이상인 카드들로 비용이 (3) 이하인 하수인을 <b>조합</b>합니다.","attack":4,"health":6,"durability":0,"armor":0,"flavor":"\"이제 입맞춤하세요.\"","spellSchool":"","portrait":"HS39-169_M.tif:4e4a2cf543129fc40b049900efd03818","set":"BE","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":5},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":4556,"name":"조합","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_045.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-169_M.tif:4e4a2cf543129fc40b049900efd03818","goldenMaterial":"BE_045_PremiumCard.mat:a4e442e6b2c3d8c4d9fc4cc427f1da99","goldenAnimation":"BE_045_PremiumCard.asset:3ac842901eaae2e41bf1035f377b2100"}}
+{
+  "2026-10-21": {
+    "id": "BE_045",
+    "dbfId": 129089,
+    "name": "부조화의 중매자",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>도발</b>, <b>전투의 함성</b>: 비용이 (5) 이상인 카드들로 비용이 (3) 이하인 하수인을 <b>조합</b>합니다.",
+    "attack": 4,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"이제 입맞춤하세요.\"",
+    "spellSchool": "",
+    "portrait": "HS39-169_M.tif:4e4a2cf543129fc40b049900efd03818",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 4556,
+        "name": "조합",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_045.png"
+  }
+}

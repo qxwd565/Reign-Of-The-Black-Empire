@@ -1,1 +1,51 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_153t","dbfId":129250,"name":"최후의 징벌","type":"SPELL","cardClass":"PALADIN","collectible":false,"cost":2,"text":"<b>생명력 흡수</b><br></br>모든 적 하수인에게 피해를 $3 줍니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"HOLY","portrait":"HS39-161_S.tif:f706fc9539d64daf9a2ef542918fb0da","set":"BE","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":5},{"id":685,"name":"생명력 흡수","value":1},{"id":1635,"name":"주문 속성","value":5}],"races":[],"race":"","classes":[],"art":"art/BE_153t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-161_S.tif:f706fc9539d64daf9a2ef542918fb0da","goldenMaterial":"BE_153t_PremiumCard.mat:86e85008b6a92a94f87243edb3ec507e","goldenAnimation":"BE_153t_PremiumCard.asset:c95bbd12366a9d34a81ef57bc9eda458"}}
+{
+  "2026-10-21": {
+    "id": "BE_153t",
+    "dbfId": 129250,
+    "name": "최후의 징벌",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "collectible": false,
+    "cost": 2,
+    "text": "<b>생명력 흡수</b><br></br>모든 적 하수인에게 피해를 $3 줍니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "HOLY",
+    "portrait": "HS39-161_S.tif:f706fc9539d64daf9a2ef542918fb0da",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_153t.png"
+  }
+}

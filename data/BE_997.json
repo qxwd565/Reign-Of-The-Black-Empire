@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_997","dbfId":132135,"name":"원시 판다렌","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":2,"text":"<i>이 하수인</i>이 아닌 카드가 내 손에 카드가 들어온 후에 두 플레이어 모두 무작위 주문을 손으로 가져옵니다.","attack":3,"health":2,"durability":0,"armor":0,"flavor":"원숭이-왕,-그리고-기를-활용한-주문을-연마하고-모험을-즐기던-수도사에게-전해졌다.","spellSchool":"","portrait":"HS39-192_M.tif:6a850b9bfd4316245a390aaf269f026b","set":"BE","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":4533,"name":"제작 결과 능력","value":1},{"id":4959,"name":"게임 태그 4959","value":0}],"races":[],"race":"","classes":[],"art":"art/BE_997.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-192_M.tif:6a850b9bfd4316245a390aaf269f026b","goldenMaterial":"BE_997_PremiumCard.mat:5a99a1e0b6365994e8d9f018afea1ae1","goldenAnimation":"BE_997_PremiumCard.asset:7e2f8e1d5e2e4bb49a5ad91702e6637d"}}
+{
+  "2026-10-21": {
+    "id": "BE_997",
+    "dbfId": 132135,
+    "name": "원시 판다렌",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 2,
+    "text": "<i>이 하수인</i>이 아닌 카드가 내 손에 카드가 들어온 후에 두 플레이어 모두 무작위 주문을 손으로 가져옵니다.",
+    "attack": 3,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "원숭이-왕,-그리고-기를-활용한-주문을-연마하고-모험을-즐기던-수도사에게-전해졌다.",
+    "spellSchool": "",
+    "portrait": "HS39-192_M.tif:6a850b9bfd4316245a390aaf269f026b",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      },
+      {
+        "id": 4959,
+        "name": "게임 태그 4959",
+        "value": 0
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_997.png"
+  }
+}

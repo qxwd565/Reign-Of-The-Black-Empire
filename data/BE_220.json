@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_220","dbfId":129256,"name":"엔트로피 균열","type":"SPELL","cardClass":"PRIEST","rarity":"COMMON","collectible":true,"cost":1,"text":"무작위 암흑 주문을<br></br>둘 얻습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"심연을 오래 들여다보면, 심연이 언젠가는 눈을 깜박입니다.","spellSchool":"SHADOW","portrait":"HS39-052_S.tif:0eab945933974a9aaea4b8d52b6b963f","set":"BE","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":6},{"id":2589,"name":"간판 카드 존재","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_220.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-052_S.tif:0eab945933974a9aaea4b8d52b6b963f","goldenMaterial":"BE_220_PremiumCard.mat:3d8750f75b1831945ad6021662812258","goldenAnimation":"BE_220_PremiumCard.asset:ff3636cdfb8475c4797f60289871d0fb"}}
+{
+  "2026-10-21": {
+    "id": "BE_220",
+    "dbfId": 129256,
+    "name": "엔트로피 균열",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "무작위 암흑 주문을<br></br>둘 얻습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "심연을 오래 들여다보면, 심연이 언젠가는 눈을 깜박입니다.",
+    "spellSchool": "SHADOW",
+    "portrait": "HS39-052_S.tif:0eab945933974a9aaea4b8d52b6b963f",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_220.png"
+  }
+}

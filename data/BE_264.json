@@ -1,1 +1,89 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_264","dbfId":130785,"name":"눈먼 박해자","type":"MINION","cardClass":"DEMONHUNTER","rarity":"RARE","collectible":true,"cost":3,"text":"<b>추방자와 죽음의 메아리</b>: 무작위 <b>추방자</b> 카드를 얻습니다.","attack":3,"health":2,"durability":0,"armor":0,"flavor":"당신도 나처럼 <b>추방자</b>로군요.","spellSchool":"","portrait":"HS39-020_M.tif:83bcabbf81974f14b8a166b5a7c367ea","set":"BE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1333,"name":"추방자","value":1},{"id":2589,"name":"간판 카드 존재","value":1},{"id":4533,"name":"제작 결과 능력","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/BE_264.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-020_M.tif:83bcabbf81974f14b8a166b5a7c367ea","goldenMaterial":"BE_264_PremiumCard.mat:25c2b648a71924c4b976439cc9e1b11b","goldenAnimation":"BE_264_PremiumCard.asset:c79dc4b9bd6da1243a834ae107d80353"}}
+{
+  "2026-10-21": {
+    "id": "BE_264",
+    "dbfId": 130785,
+    "name": "눈먼 박해자",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>추방자와 죽음의 메아리</b>: 무작위 <b>추방자</b> 카드를 얻습니다.",
+    "attack": 3,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "당신도 나처럼 <b>추방자</b>로군요.",
+    "spellSchool": "",
+    "portrait": "HS39-020_M.tif:83bcabbf81974f14b8a166b5a7c367ea",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1333,
+        "name": "추방자",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/BE_264.png"
+  }
+}

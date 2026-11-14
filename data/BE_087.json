@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_087","dbfId":129804,"name":"깊숙한 어둠","type":"SPELL","cardClass":"WARLOCK","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>도발</b> 능력이 있는 0/3 수호병을 둘 소환합니다. 하수인을 <b>조합</b>합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"하수인 하나를 <b>조합</b>하는 데 입인간이 몇 명 필요할까요?","spellSchool":"SHADOW","portrait":"HS39-085_S.tif:903db98de6424034ba63e95c453f03ff","set":"BE","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":6},{"id":4556,"name":"조합","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_087.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-085_S.tif:903db98de6424034ba63e95c453f03ff","goldenMaterial":"BE_087_PremiumCard.mat:16be9cebe034bcf4c97562e7c0205646","goldenAnimation":"BE_087_PremiumCard.asset:d5d4506268e9f66428564a268494c7fe"}}
+{
+  "2026-10-21": {
+    "id": "BE_087",
+    "dbfId": 129804,
+    "name": "깊숙한 어둠",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>도발</b> 능력이 있는 0/3 수호병을 둘 소환합니다. 하수인을 <b>조합</b>합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "하수인 하나를 <b>조합</b>하는 데 입인간이 몇 명 필요할까요?",
+    "spellSchool": "SHADOW",
+    "portrait": "HS39-085_S.tif:903db98de6424034ba63e95c453f03ff",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      },
+      {
+        "id": 4556,
+        "name": "조합",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_087.png"
+  }
+}

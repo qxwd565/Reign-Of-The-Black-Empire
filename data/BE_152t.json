@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_152t","dbfId":130638,"name":"태양의 축복","type":"SPELL","cardClass":"PALADIN","collectible":false,"cost":2,"text":"하수인에게 +2/+3을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"HOLY","portrait":"HS39-048_S.tif:20fa927926df4d29a0e1402f83d638b4","set":"BE","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":5},{"id":1635,"name":"주문 속성","value":5}],"races":[],"race":"","classes":[],"art":"art/BE_152t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-048_S.tif:20fa927926df4d29a0e1402f83d638b4","goldenMaterial":"BE_152t_PremiumCard.mat:5b2a411c1b83be644b4dd0ebb89cc869","goldenAnimation":"BE_152t_PremiumCard.asset:bcf27582b931de24c8aaed2f48f169c2"}}
+{
+  "2026-10-21": {
+    "id": "BE_152t",
+    "dbfId": 130638,
+    "name": "태양의 축복",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "collectible": false,
+    "cost": 2,
+    "text": "하수인에게 +2/+3을 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "HOLY",
+    "portrait": "HS39-048_S.tif:20fa927926df4d29a0e1402f83d638b4",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_152t.png"
+  }
+}

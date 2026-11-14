@@ -1,1 +1,41 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_004p","dbfId":132368,"name":"태양의 광휘","type":"HERO_POWER","cardClass":"NEUTRAL","collectible":false,"cost":0,"text":"","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS39-166_HP.tif:073434f8484f1ef48b42944a91a6b59e","set":"BE","nativeTags":[{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":10},{"id":684,"name":"비용 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_004p.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-166_HP.tif:073434f8484f1ef48b42944a91a6b59e","goldenMaterial":"BE_004p_PremiumCard.mat:119d159e460514f409525247b6bd0c59","goldenAnimation":"BE_004p_PremiumCard.asset:1fe94827f011a06418ae9e0fbdc8641d"}}
+{
+  "2026-10-21": {
+    "id": "BE_004p",
+    "dbfId": 132368,
+    "name": "태양의 광휘",
+    "type": "HERO_POWER",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 0,
+    "text": "",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS39-166_HP.tif:073434f8484f1ef48b42944a91a6b59e",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 10
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_004p.png"
+  }
+}

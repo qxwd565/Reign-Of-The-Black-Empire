@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_728","dbfId":130285,"name":"타락자 자카이즈","type":"MINION","cardClass":"WARLOCK","rarity":"LEGENDARY","collectible":true,"cost":4,"text":"<b>전투의 함성:</b> 내 손과 덱에 있는<br></br>하수인들의 비용이 (1) 감소하고<br></br>주문의 비용이 (1) 증가합니다.","attack":5,"health":5,"durability":0,"armor":0,"flavor":"내 칫솔은 어디 있느냐!!!","spellSchool":"","portrait":"HS39-092_M.tif:f243897bdb355734986d62ac3063c793","set":"BE","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2589,"name":"간판 카드 존재","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_728.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-092_M.tif:f243897bdb355734986d62ac3063c793","goldenMaterial":"BE_728_PremiumCard.mat:62d84541ec38ee04098138a90f53473c","goldenAnimation":"BE_728_PremiumCard.asset:9d3367f72cf4bdc41a1d4ec277812f13"}}
+{
+  "2026-10-21": {
+    "id": "BE_728",
+    "dbfId": 130285,
+    "name": "타락자 자카이즈",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b> 내 손과 덱에 있는<br></br>하수인들의 비용이 (1) 감소하고<br></br>주문의 비용이 (1) 증가합니다.",
+    "attack": 5,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "내 칫솔은 어디 있느냐!!!",
+    "spellSchool": "",
+    "portrait": "HS39-092_M.tif:f243897bdb355734986d62ac3063c793",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_728.png"
+  }
+}

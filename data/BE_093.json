@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_093","dbfId":129808,"name":"정신부패 정복자","type":"MINION","cardClass":"WARLOCK","rarity":"COMMON","collectible":true,"cost":5,"text":"<b>전투의 함성:</b> 양옆의 하수인을 이 하수인으로 변신시킵니다.","attack":4,"health":5,"durability":0,"armor":0,"flavor":"67","spellSchool":"","portrait":"HS39-087_M.tif:5b0a18358918f4342a56046246598b83","set":"BE","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_093.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-087_M.tif:5b0a18358918f4342a56046246598b83","goldenMaterial":"BE_093_PremiumCard.mat:ff52aa98e1103fb479f3d1c7a08386a6","goldenAnimation":"BE_093_PremiumCard.asset:dc59e89f4a280144f947c91c8d7d90e5"}}
+{
+  "2026-10-21": {
+    "id": "BE_093",
+    "dbfId": 129808,
+    "name": "정신부패 정복자",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> 양옆의 하수인을 이 하수인으로 변신시킵니다.",
+    "attack": 4,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "67",
+    "spellSchool": "",
+    "portrait": "HS39-087_M.tif:5b0a18358918f4342a56046246598b83",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_093.png"
+  }
+}

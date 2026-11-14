@@ -1,1 +1,51 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_009t4","dbfId":132551,"name":"요그사론의 영역","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":0,"text":"주문을 5개 뽑습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS39-128_S.tif:a6ad78fe6f544ca88ddfe1290c7fab3f","set":"BE","nativeTags":[{"id":2,"name":"효과 수치 1","value":1},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":684,"name":"비용 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_009t4.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-128_S.tif:a6ad78fe6f544ca88ddfe1290c7fab3f","goldenMaterial":"BE_009t4_PremiumCard.mat:a5d544c56739eab42b9e9f0315766bad","goldenAnimation":"BE_009t4_PremiumCard.asset:0fc9ebaf17e537c4c807f66be67c1c88"}}
+{
+  "2026-10-21": {
+    "id": "BE_009t4",
+    "dbfId": 132551,
+    "name": "요그사론의 영역",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 0,
+    "text": "주문을 5개 뽑습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS39-128_S.tif:a6ad78fe6f544ca88ddfe1290c7fab3f",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_009t4.png"
+  }
+}

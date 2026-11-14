@@ -1,1 +1,91 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_090t1","dbfId":130669,"name":"기근의 의식","type":"SPELL","cardClass":"WARLOCK","collectible":false,"cost":3,"text":"2턴 후에, 상대편의 덱에서 카드를 5장 뽑습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"SHADOW","portrait":"HS39-183_S.tif:248f83c73a6d4ad7bd239c4929722a6b","set":"BE","nativeTags":[{"id":2,"name":"효과 수치 1","value":2},{"id":48,"name":"마나 비용","value":3},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":535,"name":"퀘스트 완료 조건","value":2},{"id":684,"name":"비용 숨김","value":1},{"id":1635,"name":"주문 속성","value":6},{"id":1724,"name":"게임 태그 1724","value":1},{"id":2311,"name":"목표","value":1},{"id":2889,"name":"효과 수치 3","value":1},{"id":4623,"name":"게임 태그 4623","value":1},{"id":4960,"name":"목표 남은 횟수","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_090t1.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-183_S.tif:248f83c73a6d4ad7bd239c4929722a6b","goldenMaterial":"BE_090t1_PremiumCard.mat:025b71ab6cf6a16448683df4d47ade9c","goldenAnimation":"BE_090t1_PremiumCard.asset:898a74d5e580a784193f72853571783f"}}
+{
+  "2026-10-21": {
+    "id": "BE_090t1",
+    "dbfId": 130669,
+    "name": "기근의 의식",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "collectible": false,
+    "cost": 3,
+    "text": "2턴 후에, 상대편의 덱에서 카드를 5장 뽑습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "SHADOW",
+    "portrait": "HS39-183_S.tif:248f83c73a6d4ad7bd239c4929722a6b",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 535,
+        "name": "퀘스트 완료 조건",
+        "value": 2
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 2311,
+        "name": "목표",
+        "value": 1
+      },
+      {
+        "id": 2889,
+        "name": "효과 수치 3",
+        "value": 1
+      },
+      {
+        "id": 4623,
+        "name": "게임 태그 4623",
+        "value": 1
+      },
+      {
+        "id": 4960,
+        "name": "목표 남은 횟수",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_090t1.png"
+  }
+}

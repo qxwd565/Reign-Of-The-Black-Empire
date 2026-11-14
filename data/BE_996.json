@@ -1,1 +1,87 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_996","dbfId":131432,"name":"최전방 철의 후예","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":5,"text":"내 턴에 적 하수인이 죽은 후 +2/+2와 무작위 <b>추가 효과</b>를 얻습니다.","attack":3,"health":5,"durability":0,"armor":0,"flavor":"좋아하는 것: 물건을 반으로 자르는 것. 싫어하는 것: 비와 녹.","spellSchool":"","portrait":"HS39-114_M.tif:700089e518354ba5a7ef331518ca9bee","set":"BE","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":12},{"id":201,"name":"진영","value":1},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":2934,"name":"추가 효과","value":1},{"id":4533,"name":"제작 결과 능력","value":1},{"id":4548,"name":"게임 태그 4548","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_996.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-114_M.tif:700089e518354ba5a7ef331518ca9bee","goldenMaterial":"BE_996_PremiumCard.mat:e2a79921fe9e36047b2234e800fa2ff8","goldenAnimation":"BE_996_PremiumCard.asset:7c5ed19b266d37e4087adeece51c58b0"}}
+{
+  "2026-10-21": {
+    "id": "BE_996",
+    "dbfId": 131432,
+    "name": "최전방 철의 후예",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "내 턴에 적 하수인이 죽은 후 +2/+2와 무작위 <b>추가 효과</b>를 얻습니다.",
+    "attack": 3,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "좋아하는 것: 물건을 반으로 자르는 것. 싫어하는 것: 비와 녹.",
+    "spellSchool": "",
+    "portrait": "HS39-114_M.tif:700089e518354ba5a7ef331518ca9bee",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2934,
+        "name": "추가 효과",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      },
+      {
+        "id": 4548,
+        "name": "게임 태그 4548",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_996.png"
+  }
+}

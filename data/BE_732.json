@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_732","dbfId":130765,"name":"꿰뚫는 자 크론","type":"MINION","cardClass":"HUNTER","rarity":"LEGENDARY","collectible":true,"cost":10,"text":" <b>전투의 함성</b>: 내 모든 하수인이 무작위 적에게 자신의 공격력만큼 피해를 줍니다.","attack":6,"health":6,"durability":0,"armor":0,"flavor":"살아남았다. 크론이 상처를 돌보는 동안, 이샤라즈는 복수를 계획했다. 테라제인과 넵튤론은","spellSchool":"","portrait":"HS39-040_M.tif:414d004c81da4e1ab6c94e3541b36487","set":"BE","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":10},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2589,"name":"간판 카드 존재","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/BE_732.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-040_M.tif:414d004c81da4e1ab6c94e3541b36487","goldenMaterial":"BE_732_PremiumCard.mat:d7b6ba10f069938488a0fa46978260ae","goldenAnimation":"BE_732_PremiumCard.asset:712c3358cde6a254ca178992daeea96c"}}
+{
+  "2026-10-21": {
+    "id": "BE_732",
+    "dbfId": 130765,
+    "name": "꿰뚫는 자 크론",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 10,
+    "text": " <b>전투의 함성</b>: 내 모든 하수인이 무작위 적에게 자신의 공격력만큼 피해를 줍니다.",
+    "attack": 6,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "살아남았다. 크론이 상처를 돌보는 동안, 이샤라즈는 복수를 계획했다. 테라제인과 넵튤론은",
+    "spellSchool": "",
+    "portrait": "HS39-040_M.tif:414d004c81da4e1ab6c94e3541b36487",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 10
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/BE_732.png"
+  }
+}

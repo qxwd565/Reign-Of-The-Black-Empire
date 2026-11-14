@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_701","dbfId":129943,"name":"OC91 전차","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":5,"text":"내가 하수인을 낸 후에 카드를 뽑습니다.","attack":5,"health":5,"durability":0,"armor":0,"flavor":"당신의 OC91이 기다리고 있습니다.","spellSchool":"","portrait":"HS39-109_M.tif:d78d9856720b2204b867e8cf677ba697","set":"BE","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2589,"name":"간판 카드 존재","value":1},{"id":4533,"name":"제작 결과 능력","value":1}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/BE_701.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-109_M.tif:d78d9856720b2204b867e8cf677ba697","goldenMaterial":"BE_701_PremiumCard.mat:ef0c1fe5b859bb048b3e3c4b14f891c2","goldenAnimation":"BE_701_PremiumCard.asset:98a167e670e8a0d459a31aa52a04c7c1"}}
+{
+  "2026-10-21": {
+    "id": "BE_701",
+    "dbfId": 129943,
+    "name": "OC91 전차",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 5,
+    "text": "내가 하수인을 낸 후에 카드를 뽑습니다.",
+    "attack": 5,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "당신의 OC91이 기다리고 있습니다.",
+    "spellSchool": "",
+    "portrait": "HS39-109_M.tif:d78d9856720b2204b867e8cf677ba697",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BE_701.png"
+  }
+}

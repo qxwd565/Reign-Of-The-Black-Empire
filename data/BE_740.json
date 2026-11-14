@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_740","dbfId":130973,"name":"끌","type":"SPELL","cardClass":"WARRIOR","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>도발</b> 하수인을 <b>조합</b>합니다.<br></br>그 하수인에게 +2/+3을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"눈앞의 대리석을 보세요. 안에 들어 있는 조각품을 떠올려 보세요. 그리고 살살...","spellSchool":"","portrait":"HS39-096_S.tif:9d13703c770789d409ee4fb8d1dbaca5","set":"BE","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":4556,"name":"조합","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_740.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-096_S.tif:9d13703c770789d409ee4fb8d1dbaca5","goldenMaterial":"BE_740_PremiumCard.mat:3c56da98d5d050d4f9fe6d8e9e150f76","goldenAnimation":"BE_740_PremiumCard.asset:f9a039929edc37c44a218c147369f759"}}
+{
+  "2026-10-21": {
+    "id": "BE_740",
+    "dbfId": 130973,
+    "name": "끌",
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>도발</b> 하수인을 <b>조합</b>합니다.<br></br>그 하수인에게 +2/+3을 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "눈앞의 대리석을 보세요. 안에 들어 있는 조각품을 떠올려 보세요. 그리고 살살...",
+    "spellSchool": "",
+    "portrait": "HS39-096_S.tif:9d13703c770789d409ee4fb8d1dbaca5",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 4556,
+        "name": "조합",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_740.png"
+  }
+}

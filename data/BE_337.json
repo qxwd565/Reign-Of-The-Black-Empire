@@ -1,1 +1,89 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_337","dbfId":131010,"name":"대지모신 테라제인","type":"MINION","cardClass":"SHAMAN","rarity":"LEGENDARY","collectible":true,"cost":6,"text":"<b>전투의 함성</b>: 다음에 내가 내는 각 속성의 주문이 두 번 시전됩니다.","attack":5,"health":5,"durability":0,"armor":0,"flavor":"맛휼크론 의 아3지잔해가 모뎢래가른 될 때까형<지> 뾰족!한., 바보위의햐 벽과프 몰-아치는7 |파큐도스 사)이에 (그5?를 가쿕두었탁다.","spellSchool":"","portrait":"HS39-082_M.tif:15b3207c234d9b940be522d4050259ca","set":"BE","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2589,"name":"간판 카드 존재","value":1},{"id":4533,"name":"제작 결과 능력","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/BE_337.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-082_M.tif:15b3207c234d9b940be522d4050259ca","goldenMaterial":"BE_337_PremiumCard.mat:31e7e777517573a47ba6bd078618e4cc","goldenAnimation":"BE_337_PremiumCard.asset:2ed8248deba37aa449aee1a5d7abaf16"}}
+{
+  "2026-10-21": {
+    "id": "BE_337",
+    "dbfId": 131010,
+    "name": "대지모신 테라제인",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>전투의 함성</b>: 다음에 내가 내는 각 속성의 주문이 두 번 시전됩니다.",
+    "attack": 5,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "맛휼크론 의 아3지잔해가 모뎢래가른 될 때까형<지> 뾰족!한., 바보위의햐 벽과프 몰-아치는7 |파큐도스 사)이에 (그5?를 가쿕두었탁다.",
+    "spellSchool": "",
+    "portrait": "HS39-082_M.tif:15b3207c234d9b940be522d4050259ca",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/BE_337.png"
+  }
+}

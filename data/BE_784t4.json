@@ -1,1 +1,51 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_784t4","dbfId":131855,"name":"이샤라즈의 영역","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":0,"text":"다음에 내가 내는 카드의 비용이 (5) 감소합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS39-124_S.tif:7d73e255b00f46c98620fd0d9cb4386d","set":"BE","nativeTags":[{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":5},{"id":684,"name":"비용 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_784t4.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-124_S.tif:7d73e255b00f46c98620fd0d9cb4386d","goldenMaterial":"BE_784t4_PremiumCard.mat:6c667174f72e7954085ead6cf41fc670","goldenAnimation":"BE_784t4_PremiumCard.asset:960008a523207fa4d849f3290c6094e6"}}
+{
+  "2026-10-21": {
+    "id": "BE_784t4",
+    "dbfId": 131855,
+    "name": "이샤라즈의 영역",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 0,
+    "text": "다음에 내가 내는 카드의 비용이 (5) 감소합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS39-124_S.tif:7d73e255b00f46c98620fd0d9cb4386d",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_784t4.png"
+  }
+}

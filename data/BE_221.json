@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_221","dbfId":130401,"name":"장로의 권능: 선견","type":"SPELL","cardClass":"PRIEST","rarity":"RARE","collectible":true,"cost":3,"text":"카드를 뽑고 그 카드의<br></br>비용을 (2) 감소시킵니다.<br></br><i>(다음에 내가 내는 암흑 주문이<br></br>이 능력을 반복합니다!)</i>","attack":0,"health":0,"durability":0,"armor":0,"flavor":"역사 기록에 최초로 남은 말입니다. \"안녕, 자기.\"","spellSchool":"SHADOW","portrait":"HS39-054_S.tif:66ec8c71bf3f48c7b2e1634a74152bfa","set":"BE","nativeTags":[{"id":2,"name":"효과 수치 1","value":0},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":6},{"id":4618,"name":"게임 태그 4618","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_221.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-054_S.tif:66ec8c71bf3f48c7b2e1634a74152bfa","goldenMaterial":"BE_221_PremiumCard.mat:c5e906c03071a1840b76e5e5de93dfcf","goldenAnimation":"BE_221_PremiumCard.asset:6d0d7557333305d43b61e2d2209ee7a6"}}
+{
+  "2026-10-21": {
+    "id": "BE_221",
+    "dbfId": 130401,
+    "name": "장로의 권능: 선견",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "카드를 뽑고 그 카드의<br></br>비용을 (2) 감소시킵니다.<br></br><i>(다음에 내가 내는 암흑 주문이<br></br>이 능력을 반복합니다!)</i>",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "역사 기록에 최초로 남은 말입니다. \"안녕, 자기.\"",
+    "spellSchool": "SHADOW",
+    "portrait": "HS39-054_S.tif:66ec8c71bf3f48c7b2e1634a74152bfa",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 0
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      },
+      {
+        "id": 4618,
+        "name": "게임 태그 4618",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_221.png"
+  }
+}

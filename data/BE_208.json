@@ -1,1 +1,52 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_208","dbfId":131232,"name":"티탄 크기","type":"SPELL","cardClass":"DRUID","rarity":"RARE","collectible":true,"cost":2,"text":"하수인을 뽑습니다.<br></br>내 손에 있는 야수들에게<br></br>+2/+2를 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"작은 여우는 몸을 쭉 펴고 섰습니다. 그 순간만큼은 세계의 챔피언이었죠.","spellSchool":"","portrait":"HS39-029_S.tif:af9cdc81afd14f6a828e4eb5b809c86b","set":"BE","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_208.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-029_S.tif:af9cdc81afd14f6a828e4eb5b809c86b","goldenMaterial":"BE_208_PremiumCard.mat:34d8205de218f7749a5dc82eca59dffa","goldenAnimation":"BE_208_PremiumCard.asset:11204aaac8f8312459f64096a1ec427e"}}
+{
+  "2026-10-21": {
+    "id": "BE_208",
+    "dbfId": 131232,
+    "name": "티탄 크기",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "하수인을 뽑습니다.<br></br>내 손에 있는 야수들에게<br></br>+2/+2를 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "작은 여우는 몸을 쭉 펴고 섰습니다. 그 순간만큼은 세계의 챔피언이었죠.",
+    "spellSchool": "",
+    "portrait": "HS39-029_S.tif:af9cdc81afd14f6a828e4eb5b809c86b",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_208.png"
+  }
+}

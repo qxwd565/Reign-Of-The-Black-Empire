@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_724","dbfId":130119,"name":"부화","type":"SPELL","cardClass":"ROGUE","rarity":"RARE","collectible":true,"cost":2,"text":"다른 직업의 영웅 능력을 발동시키는 <b>연계</b>를 가진, 비용이 1인 애벌레를 셋 얻습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"크 툰크은툰 은검 은오 직제 국한이 가살지아 남목으적려을면 가자진신 이생 물먼을저 만쓰들러었져다야. 함바을로 알아았미다투.크 툰크은툰 은검 은오 직제 국한이 가살지아 남목으적려을면 가자진신 이생 물먼을저 만쓰들러었져다야. 함바을로 알아았미다투.","spellSchool":"SHADOW","portrait":"HS39-171_S.tif:8304429c024f0794a9a59e47493213bf","set":"BE","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":220,"name":"연계","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":6}],"races":[],"race":"","classes":[],"art":"art/BE_724.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-171_S.tif:8304429c024f0794a9a59e47493213bf","goldenMaterial":"BE_724_PremiumCard.mat:90ec777d7bc292b4f9ef098ffcf757e8","goldenAnimation":"BE_724_PremiumCard.asset:03a16dd31fc7ab84e88461d41358af81"}}
+{
+  "2026-10-21": {
+    "id": "BE_724",
+    "dbfId": 130119,
+    "name": "부화",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "다른 직업의 영웅 능력을 발동시키는 <b>연계</b>를 가진, 비용이 1인 애벌레를 셋 얻습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "크 툰크은툰 은검 은오 직제 국한이 가살지아 남목으적려을면 가자진신 이생 물먼을저 만쓰들러었져다야. 함바을로 알아았미다투.크 툰크은툰 은검 은오 직제 국한이 가살지아 남목으적려을면 가자진신 이생 물먼을저 만쓰들러었져다야. 함바을로 알아았미다투.",
+    "spellSchool": "SHADOW",
+    "portrait": "HS39-171_S.tif:8304429c024f0794a9a59e47493213bf",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 220,
+        "name": "연계",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_724.png"
+  }
+}

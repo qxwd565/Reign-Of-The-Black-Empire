@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_541","dbfId":130761,"name":"느조스의 대리인","type":"MINION","cardClass":"ROGUE","rarity":"RARE","collectible":true,"cost":2,"text":"<b>죽음의 메아리:</b> 내 손에 있는 다른 무작위 <b>죽음의 메아리</b> 하수인을 복사하여 얻습니다.","attack":3,"health":2,"durability":0,"armor":0,"flavor":"\"저기, 안녕하세요.\" \"키식스 장군이다.\"","spellSchool":"","portrait":"HS39-170_M.tif:f9f514f7c713661418f72338b306513f","set":"BE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_541.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-170_M.tif:f9f514f7c713661418f72338b306513f","goldenMaterial":"BE_541_PremiumCard.mat:dd7d8986b74eae64f8c1888ab6332f4e","goldenAnimation":"BE_541_PremiumCard.asset:546d0d99b28a6b34faa031411e9c6d24"}}
+{
+  "2026-10-21": {
+    "id": "BE_541",
+    "dbfId": 130761,
+    "name": "느조스의 대리인",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>죽음의 메아리:</b> 내 손에 있는 다른 무작위 <b>죽음의 메아리</b> 하수인을 복사하여 얻습니다.",
+    "attack": 3,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"저기, 안녕하세요.\" \"키식스 장군이다.\"",
+    "spellSchool": "",
+    "portrait": "HS39-170_M.tif:f9f514f7c713661418f72338b306513f",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_541.png"
+  }
+}

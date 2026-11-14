@@ -1,1 +1,61 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_055t","dbfId":132338,"name":"아카에다스의 망치","type":"WEAPON","cardClass":"WARRIOR","collectible":false,"cost":1,"text":"내 영웅이 공격한 후에, '다른 카드'를 무작위로 시전합니다.","attack":3,"health":0,"durability":3,"armor":0,"flavor":"","spellSchool":"","portrait":"HS39-098_W.tif:947c4cff1709469190ba35ebe1591fbb","set":"BE","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":7}],"races":[],"race":"","classes":[],"art":"art/BE_055t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-098_W.tif:947c4cff1709469190ba35ebe1591fbb","goldenMaterial":"BE_055t_PremiumCard.mat:938662aecbd7d5544ac7179ed44c2b57","goldenAnimation":"BE_055t_PremiumCard.asset:393e517d09d5bfc40b173382a7af1da9"}}
+{
+  "2026-10-21": {
+    "id": "BE_055t",
+    "dbfId": 132338,
+    "name": "아카에다스의 망치",
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "collectible": false,
+    "cost": 1,
+    "text": "내 영웅이 공격한 후에, '다른 카드'를 무작위로 시전합니다.",
+    "attack": 3,
+    "health": 0,
+    "durability": 3,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS39-098_W.tif:947c4cff1709469190ba35ebe1591fbb",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_055t.png"
+  }
+}

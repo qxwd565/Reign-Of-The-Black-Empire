@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_873","dbfId":130680,"name":"부화의 인장","type":"SPELL","cardClass":"DEMONHUNTER","rarity":"RARE","collectible":true,"cost":4,"text":"내 다음 턴이 시작될 때, <b>속공</b> 능력이 있는 3/1 서슬발톱을 셋 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"알 하나로 빠르고 쉽게 완성하는 요리로, 만드는 데 한 턴밖에 안 걸리는 데다 잔반까지 남을지도 모릅니다!","spellSchool":"SHADOW","portrait":"HS39-017_S.tif:d9de21032dae4574954228bb78744a5b","set":"BE","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1},{"id":1635,"name":"주문 속성","value":6},{"id":1749,"name":"인장","value":1},{"id":4533,"name":"제작 결과 능력","value":1},{"id":4546,"name":"게임 태그 4546","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_873.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-017_S.tif:d9de21032dae4574954228bb78744a5b","goldenMaterial":"BE_873_PremiumCard.mat:b3fba1d92334adb428997f8293674259","goldenAnimation":"BE_873_PremiumCard.asset:c055f2856192f8044bc8aec2fdbf2af8"}}
+{
+  "2026-10-21": {
+    "id": "BE_873",
+    "dbfId": 130680,
+    "name": "부화의 인장",
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "내 다음 턴이 시작될 때, <b>속공</b> 능력이 있는 3/1 서슬발톱을 셋 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "알 하나로 빠르고 쉽게 완성하는 요리로, 만드는 데 한 턴밖에 안 걸리는 데다 잔반까지 남을지도 모릅니다!",
+    "spellSchool": "SHADOW",
+    "portrait": "HS39-017_S.tif:d9de21032dae4574954228bb78744a5b",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      },
+      {
+        "id": 1749,
+        "name": "인장",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      },
+      {
+        "id": 4546,
+        "name": "게임 태그 4546",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_873.png"
+  }
+}

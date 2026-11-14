@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_114","dbfId":131061,"name":"그림자 조각","type":"SPELL","cardClass":"SHAMAN","rarity":"COMMON","collectible":true,"cost":3,"text":"하수인을 <b>조합</b>합니다.<br></br>그 하수인의 비용이<br></br>(2) 감소합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"불을 끄고 워크래프트를 하면 어떨까요?","spellSchool":"SHADOW","portrait":"HS39-078_S.tif:2782e0311f2b45af982fae4cf7655268","set":"BE","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":6},{"id":4556,"name":"조합","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_114.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-078_S.tif:2782e0311f2b45af982fae4cf7655268","goldenMaterial":"BE_114_PremiumCard.mat:0f30b6a1085577c43940139a576fe347","goldenAnimation":"BE_114_PremiumCard.asset:fa7f0c0921bd5e243be2d20098ba5168"}}
+{
+  "2026-10-21": {
+    "id": "BE_114",
+    "dbfId": 131061,
+    "name": "그림자 조각",
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "하수인을 <b>조합</b>합니다.<br></br>그 하수인의 비용이<br></br>(2) 감소합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "불을 끄고 워크래프트를 하면 어떨까요?",
+    "spellSchool": "SHADOW",
+    "portrait": "HS39-078_S.tif:2782e0311f2b45af982fae4cf7655268",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      },
+      {
+        "id": 4556,
+        "name": "조합",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_114.png"
+  }
+}

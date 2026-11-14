@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_229","dbfId":131294,"name":"모래세공사","type":"MINION","cardClass":"PALADIN","rarity":"RARE","collectible":true,"cost":2,"text":"<b>전투의 함성</b>: 내 턴이 끝날 때 효과를 가진 하수인을 <b>조합</b>합니다.","attack":3,"health":2,"durability":0,"armor":0,"flavor":"이 건축물에는 모래가 더 필요한데. 사막 좌표가 뭐라고 했더라?","spellSchool":"","portrait":"HS39-049_M.tif:24d46106f5984f3fba38b679bb7df0e4","set":"BE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":4556,"name":"조합","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_229.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-049_M.tif:24d46106f5984f3fba38b679bb7df0e4","goldenMaterial":"BE_229_PremiumCard.mat:3db0c734edf794c449e38dc582ccc0b3","goldenAnimation":"BE_229_PremiumCard.asset:5c5ffb1429da0d648a3e789cb4060bef"}}
+{
+  "2026-10-21": {
+    "id": "BE_229",
+    "dbfId": 131294,
+    "name": "모래세공사",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성</b>: 내 턴이 끝날 때 효과를 가진 하수인을 <b>조합</b>합니다.",
+    "attack": 3,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "이 건축물에는 모래가 더 필요한데. 사막 좌표가 뭐라고 했더라?",
+    "spellSchool": "",
+    "portrait": "HS39-049_M.tif:24d46106f5984f3fba38b679bb7df0e4",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 4556,
+        "name": "조합",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_229.png"
+  }
+}

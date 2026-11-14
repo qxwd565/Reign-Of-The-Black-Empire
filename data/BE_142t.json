@@ -1,1 +1,56 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_142t","dbfId":130644,"name":"바니르 병사","type":"MINION","cardClass":"PALADIN","collectible":false,"cost":1,"text":"<b>천상의 보호막</b>","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS39-163_M.tif:704c440d58e7456d80efb9b7d2ea08e1","set":"BE","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":194,"name":"천상의 보호막","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":4}],"races":[],"race":"","classes":[],"art":"art/BE_142t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-163_M.tif:704c440d58e7456d80efb9b7d2ea08e1","goldenMaterial":"BE_142t_PremiumCard.mat:e4bd77ce812027f4ea0dcbc41b78d5ae","goldenAnimation":"BE_142t_PremiumCard.asset:42d785c45a158eb49b3a7c44eb162740"}}
+{
+  "2026-10-21": {
+    "id": "BE_142t",
+    "dbfId": 130644,
+    "name": "바니르 병사",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>천상의 보호막</b>",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS39-163_M.tif:704c440d58e7456d80efb9b7d2ea08e1",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_142t.png"
+  }
+}

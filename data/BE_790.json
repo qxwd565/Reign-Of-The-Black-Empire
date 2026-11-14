@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_790","dbfId":130000,"name":"제르온투","type":"MINION","cardClass":"PRIEST","rarity":"LEGENDARY","collectible":true,"cost":8,"text":"<b>도발</b>, <b>전투의 함성</b>: 내 덱에서 공격력이 0, 1, 2인 하수인을 소환합니다. 그 하수인들의 능력치를 얻습니다.","attack":3,"health":3,"durability":0,"armor":0,"flavor":"한국 이름은 영일이입니다.","spellSchool":"","portrait":"HS39-058_M.tif:84c93da1115847c384924084f6dbbbea","set":"BE","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":8},{"id":114,"name":"전설 속성","value":1},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1932,"name":"다이아몬드 카드 존재","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_790.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-058_M.tif:84c93da1115847c384924084f6dbbbea","goldenMaterial":"BE_790_PremiumCard.mat:2948ff949656caf4baec0a2960f3b9e8","goldenAnimation":"BE_790_PremiumCard.asset:f81425569a0da384d8285dc689eb3d49"}}
+{
+  "2026-10-21": {
+    "id": "BE_790",
+    "dbfId": 130000,
+    "name": "제르온투",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 8,
+    "text": "<b>도발</b>, <b>전투의 함성</b>: 내 덱에서 공격력이 0, 1, 2인 하수인을 소환합니다. 그 하수인들의 능력치를 얻습니다.",
+    "attack": 3,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "한국 이름은 영일이입니다.",
+    "spellSchool": "",
+    "portrait": "HS39-058_M.tif:84c93da1115847c384924084f6dbbbea",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1932,
+        "name": "다이아몬드 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_790.png"
+  }
+}

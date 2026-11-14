@@ -1,1 +1,56 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_085t","dbfId":129795,"name":"크트락시 투사","type":"MINION","cardClass":"WARLOCK","collectible":false,"cost":4,"text":"<b>도발</b>","attack":3,"health":5,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS39-089_M.tif:2e1ff3fe8dd4d1041bbe091c96d8d323","set":"BE","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":4}],"races":[],"race":"","classes":[],"art":"art/BE_085t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-089_M.tif:2e1ff3fe8dd4d1041bbe091c96d8d323","goldenMaterial":"BE_085t_PremiumCard.mat:9c2ec2fee856d344d8ac28d5d11a1fbd","goldenAnimation":"BE_085t_PremiumCard.asset:b3691855bff3cfc409f2c0fbd60c1631"}}
+{
+  "2026-10-21": {
+    "id": "BE_085t",
+    "dbfId": 129795,
+    "name": "크트락시 투사",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "collectible": false,
+    "cost": 4,
+    "text": "<b>도발</b>",
+    "attack": 3,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS39-089_M.tif:2e1ff3fe8dd4d1041bbe091c96d8d323",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_085t.png"
+  }
+}

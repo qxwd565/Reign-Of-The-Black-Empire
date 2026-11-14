@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_004","dbfId":132353,"name":"라지","type":"MINION","cardClass":"PALADIN","rarity":"LEGENDARY","collectible":true,"cost":5,"text":"<b>전투의 함성</b>: 무작위 직업의 하수인을 <b>조합</b>합니다. 그 하수인을 <b>지속</b> 영웅 능력으로 변신시킵니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"태양이 없으면 생명은 시들어 버립니다. 하지만 태양은 생명에 아랑곳하지 않습니다. 태양은 마법보다 밝게 빛납니다. 우리 발아래의 돌을 녹일 수도 있지요. 그래서 가장 큰 책임을 지게 된 것은, 라지였습니다.","spellSchool":"","portrait":"HS39-050_M.tif:b0efdc6a22944110be5feaf0538ea2c9","set":"BE","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1932,"name":"다이아몬드 카드 존재","value":1},{"id":4556,"name":"조합","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_004.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-050_M.tif:b0efdc6a22944110be5feaf0538ea2c9","goldenMaterial":"BE_004_PremiumCard.mat:c8cc03f5d49486e439c3bc5c7cb970f1","goldenAnimation":"BE_004_PremiumCard.asset:05d264df958f755499554a575f24e7d1"}}
+{
+  "2026-10-21": {
+    "id": "BE_004",
+    "dbfId": 132353,
+    "name": "라지",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성</b>: 무작위 직업의 하수인을 <b>조합</b>합니다. 그 하수인을 <b>지속</b> 영웅 능력으로 변신시킵니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "태양이 없으면 생명은 시들어 버립니다. 하지만 태양은 생명에 아랑곳하지 않습니다. 태양은 마법보다 밝게 빛납니다. 우리 발아래의 돌을 녹일 수도 있지요. 그래서 가장 큰 책임을 지게 된 것은, 라지였습니다.",
+    "spellSchool": "",
+    "portrait": "HS39-050_M.tif:b0efdc6a22944110be5feaf0538ea2c9",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1932,
+        "name": "다이아몬드 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 4556,
+        "name": "조합",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_004.png"
+  }
+}

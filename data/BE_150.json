@@ -1,1 +1,89 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_150","dbfId":130441,"name":"코일운반자","type":"MINION","cardClass":"MAGE","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>전투의 함성</b>: 주문을 <b>발견</b>하여 내 덱 맨 위에 놓습니다. 그 주문의 비용이 (2) 감소합니다.","attack":3,"health":2,"durability":0,"armor":0,"flavor":"항상 덱 맨 위에서 나온 카드에 당한다고 불평합니다.","spellSchool":"","portrait":"HS39-190_M.tif:d892233a70e271445aeb8fcc7738f9c6","set":"BE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":4},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":4533,"name":"제작 결과 능력","value":1},{"id":4578,"name":"게임 태그 4578","value":1}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/BE_150.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-190_M.tif:d892233a70e271445aeb8fcc7738f9c6","goldenMaterial":"BE_150_PremiumCard.mat:10ee88f73ae907d45b8a431b8baf9c19","goldenAnimation":"BE_150_PremiumCard.asset:b449bd9c93d2a2e4d8bea25521935326"}}
+{
+  "2026-10-21": {
+    "id": "BE_150",
+    "dbfId": 130441,
+    "name": "코일운반자",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성</b>: 주문을 <b>발견</b>하여 내 덱 맨 위에 놓습니다. 그 주문의 비용이 (2) 감소합니다.",
+    "attack": 3,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "항상 덱 맨 위에서 나온 카드에 당한다고 불평합니다.",
+    "spellSchool": "",
+    "portrait": "HS39-190_M.tif:d892233a70e271445aeb8fcc7738f9c6",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      },
+      {
+        "id": 4578,
+        "name": "게임 태그 4578",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BE_150.png"
+  }
+}

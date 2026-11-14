@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_877","dbfId":130729,"name":"굶주린 동굴","type":"SPELL","cardClass":"DEMONHUNTER","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>생명력 흡수</b>. 피해를 $2 줍니다. 이번 턴에 아군 하수인이 죽었으면, 비용이 (0)이 됩니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"물이 뚝뚝 떨어지는 종유석이 꼭 이빨 같네요...","spellSchool":"","portrait":"HS39-018_S.tif:0d8d160d239b42ed8c5b7c212c9b2d44","set":"BE","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":685,"name":"생명력 흡수","value":1},{"id":2589,"name":"간판 카드 존재","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_877.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-018_S.tif:0d8d160d239b42ed8c5b7c212c9b2d44","goldenMaterial":"BE_877_PremiumCard.mat:31b4025488961054bb992eba3e572617","goldenAnimation":"BE_877_PremiumCard.asset:4f6c97e06950b6e4483fd5604a4820f2"}}
+{
+  "2026-10-21": {
+    "id": "BE_877",
+    "dbfId": 130729,
+    "name": "굶주린 동굴",
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>생명력 흡수</b>. 피해를 $2 줍니다. 이번 턴에 아군 하수인이 죽었으면, 비용이 (0)이 됩니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "물이 뚝뚝 떨어지는 종유석이 꼭 이빨 같네요...",
+    "spellSchool": "",
+    "portrait": "HS39-018_S.tif:0d8d160d239b42ed8c5b7c212c9b2d44",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_877.png"
+  }
+}

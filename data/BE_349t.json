@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_349t","dbfId":131302,"name":"전율하는 정령","type":"MINION","cardClass":"SHAMAN","collectible":false,"cost":2,"text":"<b>속공</b>","attack":2,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS39-175_M.tif:ecc93caaa6014efcbdacc041a43efb23","set":"BE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":791,"name":"속공","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/BE_349t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-175_M.tif:ecc93caaa6014efcbdacc041a43efb23","goldenMaterial":"BE_349t_PremiumCard.mat:ee171e5f9d3219449bb00efb9a23dd14","goldenAnimation":"BE_349t_PremiumCard.asset:b6c52d6562d2a8745ab3c52483d56259"}}
+{
+  "2026-10-21": {
+    "id": "BE_349t",
+    "dbfId": 131302,
+    "name": "전율하는 정령",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "collectible": false,
+    "cost": 2,
+    "text": "<b>속공</b>",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS39-175_M.tif:ecc93caaa6014efcbdacc041a43efb23",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/BE_349t.png"
+  }
+}

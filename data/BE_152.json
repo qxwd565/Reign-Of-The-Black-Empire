@@ -1,1 +1,92 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_152","dbfId":129131,"name":"태양춤꾼","type":"MINION","cardClass":"PALADIN","rarity":"COMMON","collectible":true,"cost":2,"text":"내 턴이 끝날 때, +2/+3을 부여하는 비용이 2인 축복을 얻습니다.","attack":2,"health":3,"durability":0,"armor":0,"flavor":"하고 싶으면 태양춤을 출 수 있어!","spellSchool":"","portrait":"HS39-047_M.tif:d3da7f1f7f9d45c78502e54fba266b45","set":"BE","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1078,"name":"마우스를 올리면 카드 표시","value":130638},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":130638},{"id":4533,"name":"제작 결과 능력","value":1},{"id":4577,"name":"게임 태그 4577","value":1},{"id":4578,"name":"게임 태그 4578","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_152.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-047_M.tif:d3da7f1f7f9d45c78502e54fba266b45","goldenMaterial":"BE_152_PremiumCard.mat:8db1cac4a4701d94eaf25c092935e858","goldenAnimation":"BE_152_PremiumCard.asset:1fdc0827f20d12a439b9061942312dd4"}}
+{
+  "2026-10-21": {
+    "id": "BE_152",
+    "dbfId": 129131,
+    "name": "태양춤꾼",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "내 턴이 끝날 때, +2/+3을 부여하는 비용이 2인 축복을 얻습니다.",
+    "attack": 2,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "하고 싶으면 태양춤을 출 수 있어!",
+    "spellSchool": "",
+    "portrait": "HS39-047_M.tif:d3da7f1f7f9d45c78502e54fba266b45",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1078,
+        "name": "마우스를 올리면 카드 표시",
+        "value": 130638
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 130638
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      },
+      {
+        "id": 4577,
+        "name": "게임 태그 4577",
+        "value": 1
+      },
+      {
+        "id": 4578,
+        "name": "게임 태그 4578",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_152.png"
+  }
+}

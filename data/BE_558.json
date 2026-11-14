@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_558","dbfId":129938,"name":"돌 건틀릿","type":"WEAPON","cardClass":"WARRIOR","rarity":"COMMON","collectible":true,"cost":1,"text":"내 영웅이 공격한 후에 내 영웅의 생명력 5를 방어도로 바꿉니다.","attack":2,"health":0,"durability":2,"armor":0,"flavor":"좋아. 내가 직접 나서지.","spellSchool":"","portrait":"HS39-186_W.tif:649b6422c7064f099b203bfbd3f3d030","set":"BE","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":7},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_558.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-186_W.tif:649b6422c7064f099b203bfbd3f3d030","goldenMaterial":"BE_558_PremiumCard.mat:4d87867a721ca5d4997ff45a7f30d4dd","goldenAnimation":"BE_558_PremiumCard.asset:46a784a347bb15643bf48c9c4ab1972b"}}
+{
+  "2026-10-21": {
+    "id": "BE_558",
+    "dbfId": 129938,
+    "name": "돌 건틀릿",
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "내 영웅이 공격한 후에 내 영웅의 생명력 5를 방어도로 바꿉니다.",
+    "attack": 2,
+    "health": 0,
+    "durability": 2,
+    "armor": 0,
+    "flavor": "좋아. 내가 직접 나서지.",
+    "spellSchool": "",
+    "portrait": "HS39-186_W.tif:649b6422c7064f099b203bfbd3f3d030",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_558.png"
+  }
+}

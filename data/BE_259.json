@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_259","dbfId":129851,"name":"이시세트","type":"MINION","cardClass":"MAGE","rarity":"LEGENDARY","collectible":true,"cost":6,"text":"<b>전투의 함성:</b> 10/10 피조물을 둘 소환합니다. 이 피조물들은 내가 주문에 마나를 15 소모하기 전까지 <b>빙결</b>되어 있습니다.","attack":5,"health":5,"durability":0,"armor":0,"flavor":"무로부터 별을 만들어 내는 데는 어마어마한 힘이 필요합니다. 그리하여 천공의 정원을 더 가꾸기 위하여, 무한한 마력의 원천으로 이시세트가 창조되었습니다.","spellSchool":"","portrait":"HS39-045_M.tif:e0d35b4ae2764e0eb873e4fe5511d1c0","set":"BE","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":208,"name":"빙결","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1932,"name":"다이아몬드 카드 존재","value":1}],"races":[],"race":"","classes":[],"art":"art/BE_259.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-045_M.tif:e0d35b4ae2764e0eb873e4fe5511d1c0","goldenMaterial":"BE_259_PremiumCard.mat:d8b000993630b5f45a712fd2d4d520c2","goldenAnimation":"BE_259_PremiumCard.asset:98ada6fb3f9ef1941b7a9f62e3ad858d"}}
+{
+  "2026-10-21": {
+    "id": "BE_259",
+    "dbfId": 129851,
+    "name": "이시세트",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>전투의 함성:</b> 10/10 피조물을 둘 소환합니다. 이 피조물들은 내가 주문에 마나를 15 소모하기 전까지 <b>빙결</b>되어 있습니다.",
+    "attack": 5,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "무로부터 별을 만들어 내는 데는 어마어마한 힘이 필요합니다. 그리하여 천공의 정원을 더 가꾸기 위하여, 무한한 마력의 원천으로 이시세트가 창조되었습니다.",
+    "spellSchool": "",
+    "portrait": "HS39-045_M.tif:e0d35b4ae2764e0eb873e4fe5511d1c0",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 208,
+        "name": "빙결",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1932,
+        "name": "다이아몬드 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BE_259.png"
+  }
+}

@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BE_873t","dbfId":130778,"name":"서슬발톱","type":"MINION","cardClass":"DEMONHUNTER","collectible":false,"cost":2,"text":"<b>속공</b>","attack":3,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS39-140_M.tif:c6466806401b66348bde5f0cf9e7df6d","set":"BE","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":791,"name":"속공","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/BE_873t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS39-140_M.tif:c6466806401b66348bde5f0cf9e7df6d","goldenMaterial":"BE_873t_PremiumCard.mat:270fa15fd1250334f9e8beb7d41ade5b","goldenAnimation":"BE_873t_PremiumCard.asset:56690bac270ebff4b92d356b2f7fb599"}}
+{
+  "2026-10-21": {
+    "id": "BE_873t",
+    "dbfId": 130778,
+    "name": "서슬발톱",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "collectible": false,
+    "cost": 2,
+    "text": "<b>속공</b>",
+    "attack": 3,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS39-140_M.tif:c6466806401b66348bde5f0cf9e7df6d",
+    "set": "BE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/BE_873t.png"
+  }
+}
